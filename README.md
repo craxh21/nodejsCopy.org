@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org">Node.js</a> Website built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3
+  <a href="https://nodejs.org">Node.js</a> Website built using Next.js with TypeScript, CSS Modules/Tailwind, and MDXv3 by craxh
 </p>
 
 <p align="center">
